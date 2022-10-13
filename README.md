@@ -10,12 +10,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RafaPregardier)
 
 
-
 ![Pre9o GitHub stats](https://github-readme-stats.vercel.app/api?username=pre9o&theme=midnight-purple&show_icons=true)
 
 ## Tecnologias que utilizo/utilizei:
 
-<div style="display: inline_block><br/">
+<div style="display: inline_block">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
