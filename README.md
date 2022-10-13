@@ -27,6 +27,9 @@
 > Apenas um programador, apaixonado por CS:GO, que tenta mudar o mundo com pequenas ações(e grandes códigos).
 
 
+![fnx-fer](https://user-images.githubusercontent.com/102990182/195474881-16e064fc-079c-46e5-aba4-1751f07ad33c.gif)
+
+
 
 
 
