@@ -25,7 +25,7 @@
    
 </div><br/>
 
-Apenas um programador, apaixonado por CS:GO, que tenta mudar o mundo com pequenas ações(e grandes códigos).
+> Apenas um programador, apaixonado por CS:GO, que tenta mudar o mundo com pequenas ações(e grandes códigos).
 
 
 
