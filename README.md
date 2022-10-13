@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelpregardier/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carneiro-pregardier-55a802232/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pre9o)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq?si=6fa15ce3ad914f96)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carneiraodamassa/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pre9o)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RafaPregardier)
@@ -25,8 +26,6 @@
 </div><br/>
 
 Apenas um programador, apaixonado por CS:GO, que tenta mudar o mundo com pequenas ações(e grandes códigos).
-
-![fnx-fer](https://user-images.githubusercontent.com/102990182/195468421-30a3abdf-1662-4939-9495-d71454489fcb.gif)
 
 
 
