@@ -15,9 +15,6 @@
     <a href="https://www.linkedin.com/in/rafael-carneiro-pregardier-55a802232/">
         <img alt="Linkedin" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.reddit.com/user/Pre9o">
-        <img alt="Reddit" align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-    </a>
     <a href="https://open.spotify.com/track/7MJQ9Nfxzh8LPZ9e9u68Fq?si=6fa15ce3ad914f96">
         <img alt="Spotify" align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
