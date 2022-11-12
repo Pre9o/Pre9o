@@ -67,7 +67,7 @@
     
     
 <div align="center">
-    <h3>Desenvolvedor do @BotCSGOBrasil 🤖</h3>
+    <h3>Desenvolvedor do @BotCSGOBrasil: 🤖</h3>
 </div>
 </a>
     <div style="display: inline_block" align="center">
