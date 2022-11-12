@@ -63,7 +63,12 @@
 <br/>
 
 
-> Apenas um programador, apaixonado por CS:GO, que tenta mudar o mundo com pequenas ações(e grandes códigos). Desenvolvedor do @BotCSGOBrasil: 
+> Apenas um programador, apaixonado por CS:GO, que tenta mudar o mundo com pequenas ações(e grandes códigos). 
+    
+    
+    <div align="center">
+    <h3>Desenvolvedor do @BotCSGOBrasil 🤖</h3>
+</div>
     </a>
     <div style="display: inline_block" align="center">
     <a href="https://twitter.com/BotCSGOBrasil">
