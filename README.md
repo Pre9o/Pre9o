@@ -101,7 +101,7 @@
 </div>
 
 <div align="center">
-    <h3><a href="https://github.com/Pre9o/bot-instagram">Desenvolvedor do Scrape Bot Instagram 🤖</a></h3>
+    <h3><a href="https://github.com/Pre9o/scrape-bot-instagram">Desenvolvedor do Scrape Bot Instagram 🤖</a></h3>
 </div>
 
 
