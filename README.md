@@ -66,7 +66,7 @@
 <br/>
 
 
-> Apenas um programador, apaixonado por BOTS e I.A, que tenta mudar o mundo com pequenas ações (e grandes códigos). 
+> Apenas um programador e pesquisador, apaixonado por BOTS e I.A, que tenta mudar o mundo com pequenas ações (e grandes códigos). 
     
 <div align="center">
     <h3>Meus projetos: 📚</h3>
