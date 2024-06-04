@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-> Just a programmer and researcher, passionate about BOTS and A.I, trying to change the world with small actions (and big codes).
+> Just a programmer and researcher, passionate about BOTS and ML, trying to change the world with small actions (and big codes).
 
 <div align="center">
     <h3>My projects: 📚</h3>
