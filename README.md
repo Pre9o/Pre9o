@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <h3>My stats: 📈</h3>
-    <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=pre9o&theme=midnight-purple&show_icons=true"
+    <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=pre9o&show_icons=true&theme=transparent"
         style="margin: 5px"/>
 </div>
 
@@ -59,7 +59,7 @@
 <br/>
 <div align="center">
     <h3>My most used programming languages: 📊</h3>
-    <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pre9o&layout=compact&theme=midnight-purple"
+    <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pre9o&layout=compact&theme=transparent"
         style="margin: 5px"/>
 </div>
 <br/>
