@@ -15,15 +15,6 @@
 </div>
 
 <div style="display: inline_block" align="center">
-    <a href="https://steamcommunity.com/id/carneiraodamassa/">
-        <img alt="Steam" align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-    </a>
-    <a href="https://www.twitch.tv/pre9o">
-        <img alt="Twitch" align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
-    <a href="https://x.com/RafaPregardier">
-        <img alt="X" align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-    </a>
 </div>
 
 <br/>
